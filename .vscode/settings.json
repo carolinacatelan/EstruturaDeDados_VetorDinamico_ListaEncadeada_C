@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "linkedlist.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "menu.h": "c",
+        "mainarraylist.h": "c",
+        "arraylist.h": "c",
+        "mainlinkedlist.h": "c"
+    }
+}
